@@ -5,3 +5,5 @@ Also found on:
 
 And debian missing package on:
 [Debian LSB Packages](http://ftp.debian.org/debian/pool/main/l/lsb/lsb-compat_9.20161125_amd64.deb)
+
+Tested on mx linux 21.1
